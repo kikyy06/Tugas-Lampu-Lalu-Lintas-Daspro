@@ -28,8 +28,8 @@ def lampu_lalulintas(arah_lampu):
 
 #### Membuat Function Untuk Mendefinisikan Arah Lampu
 def empat_arah():
-arah_lampu = ("Utara", "Timur", "Selatan", "Barat")
-
+    arah_lampu = ("Utara", "Timur", "Selatan", "Barat")
+    
 #### Melakukan Pengulangan Tanpa Henti Menggunakan while True:
 while True:
 for arah in arah_lampu: 
